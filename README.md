@@ -8,7 +8,7 @@ payload:-
     "idNumber": "031125100209",
     "firstName": "Best",
     "lastName": "Test",
-    "physicalAddress": "Johnberg",
+    "physicalAddress": "johannesburg",
     "mobileNumber": 4233534537
 }
 
