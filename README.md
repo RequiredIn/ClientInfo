@@ -1,5 +1,14 @@
 # ClientInfo
 
+A basic project on 
+Java8,
+Hibernate,
+Springboot,
+Sprng Data JPA,
+Server as Tomcat,
+Use of Global Exception concept,
+Hibernate Validations 
+
 POST :- 
 http://localhost:8080/api/client/save
 payload:-
